@@ -1,0 +1,20 @@
+{
+  "name": "express-backend-quickstart",
+  "version": "0.1.0",
+  "private": true,
+  "scripts": {
+    "dev": "tsx watch src/server.ts",
+    "start": "tsx src/server.ts"
+  },
+  "dependencies": {
+    "@monocloud/backend-node": "^0.1.*",
+    "dotenv": "^16",
+    "express": "^5"
+  },
+  "devDependencies": {
+    "@types/express": "^5",
+    "@types/node": "^20",
+    "tsx": "^4",
+    "typescript": "^5"
+  }
+}
