@@ -7,7 +7,7 @@
     "start": "tsx src/server.ts"
   },
   "dependencies": {
-    "@monocloud/backend-node": "^0.1.*",
+    "@monocloud/backend-node": "^0.3.*",
     "dotenv": "^16",
     "express": "^5"
   },
